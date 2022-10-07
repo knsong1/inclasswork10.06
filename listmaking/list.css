@@ -1,0 +1,8 @@
+ body {
+    background-color:blue;
+}
+
+ul > li {
+    background-color: orange;
+    font-size: 18px;
+}
